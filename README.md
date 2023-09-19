@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naveen</h1>
 <h3 align="center">A passionate full stack web developer</h3>
-
+<p>I am a good problem solver and have a deep knowledge of Data structures and Algorithms. 
+Apart from this,  I worked as a Software Engineering intern in Analog Devices. I worked with a full-stack web development team and created a Jenkins controller web application using the Angular framework where admins can easily log in and restart controllers, resulting in significant time savings. My main role was to design a user-friendly application that users can easily comprehend and find attractive. Also, I worked with some DevOps tools such as Docker and Jenkins. I am 3x AWS certified and recently wrote a research paper on docker image size optimization using multi-stage builds which is Accepted by IEEE</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/badisanaveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="badisanaveen" height="30" width="40" /></a>
