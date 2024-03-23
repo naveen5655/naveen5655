@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveen</h1>
-<p>👋 I'm currently working as a software engineer intern at Analog Devices. I'm passionate about web development and DevOps tech. I'm skilled in React, Angular, Spring Boot, and Django. I've hands on experience with Docker, Jenkins and Kubernetes. 
+<p> I'm currently working as a software engineer intern at Analog Devices. I'm passionate about web development and DevOps tech. I'm skilled in React, Angular, Spring Boot, and Django. I've hands on experience with Docker, Jenkins and Kubernetes. 
 Feel free to contact me: 
 mail: naveenbadisa2708@gmail.com .</p>
 <h3 align="left">Connect with me:</h3>
