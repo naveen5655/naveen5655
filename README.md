@@ -10,7 +10,7 @@
 🌱 I’m passionate about learning and exploring new technologies. Currently, I'm diving deep into cloud-native architectures and mastering container orchestration with Kubernetes.
 
 🚀 Here's what I'm working on:
-- Building a robust e-commerce platform using React, Spring Boot, and MySQL.
+- Building a robust Jenkins API UI web application using Angular and Golang.
 - Implementing CI/CD pipelines with Jenkins, Docker, and Kubernetes for seamless deployment.
 - Contributing to open-source projects on GitHub and collaborating with the developer community.
 
