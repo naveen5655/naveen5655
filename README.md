@@ -11,14 +11,14 @@
 
 🚀 Here's what I'm working on:
 - Building a robust Jenkins API UI web application using Angular and Golang.
-- Implementing CI/CD pipelines with Jenkins, Docker, and Kubernetes for seamless deployment.
+- Implementing CI/CD pipelines with Jenkins, Docker and Kubernetes for seamless deployment.
 - Contributing to open-source projects on GitHub and collaborating with the developer community.
 
 💬 Ask me about:
 - Web development using modern frameworks and libraries like Angular and React.
-- Backend development with Golang, Spring Boot, and Django.
-- DevOps practices, containerization with Docker, orchestration with Kubernetes, and CI/CD automation with Jenkins.
-- Database management and optimization with MongoDB, MySQL, PostgreSQL, and Redis.
+- Backend development with Golang, Spring Boot and Django.
+- DevOps practices, containerization with Docker, orchestration with Kubernetes and CI/CD automation with Jenkins.
+- Database management and optimization with MongoDB, MySQL, PostgreSQL and Redis.
 - Cloud platforms like AWS, Azure, and Google Cloud for scalable and reliable application deployment.
 
 📫 How to reach me:
