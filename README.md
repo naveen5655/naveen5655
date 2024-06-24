@@ -1,30 +1,39 @@
-<div align="center">
-  <h1>Hi there, I'm Naveen! 👋</h1>
-  <p><em>Full Stack Web Developer & DevOps Enthusiast</em></p>
-</div>
+<!-- Header Section -->
+<h1 align="center">Hi there, I'm Naveen! 👋</h1>
+<p align="center"><em>Full Stack Web Developer & DevOps Enthusiast</em></p>
 
 ---
 
-🔭 I’m currently working at Analog Devices as a Software Engineer intern, where I'm involved in building scalable web applications and automating deployment processes.
+<!-- Summary Section -->
+## Summary
+- 💼 Industry work experience with Frontend, Backend and DevOps technologies with 70+ GitHub repositories.
+- 🌐 Building scalable web applications and automating deployment processes.
+- ☁️ Hands-on experience with AWS cloud platform including 3 AWS certifications and one EX-183 Red Hat certification.
+---
 
-🌱 I’m passionate about learning and exploring new technologies. Currently, I'm diving deep into cloud-native architectures and mastering container orchestration with Kubernetes.
+<!-- Technical Skills Section -->
+## Technical Skills
 
-🚀 Here's what I'm working on:
-- Building a robust Jenkins API UI web application using Angular and Golang.
-- Implementing CI/CD pipelines with Jenkins, Docker and Kubernetes for seamless deployment.
-- Contributing to open-source projects on GitHub and collaborating with the developer community.
-
-💬 Ask me about:
-- Web development using modern frameworks and libraries like Angular and React.
-- Backend development with Golang, Spring Boot and Django.
-- DevOps practices, containerization with Docker, orchestration with Kubernetes and CI/CD automation with Jenkins.
-- Database management and optimization with MongoDB, MySQL, PostgreSQL and Redis.
-- Cloud platforms like AWS, Azure, and Google Cloud for scalable and reliable application deployment.
-
-📫 How to reach me:
-- Email: naveenbadisa2708@gmail.com
-- LinkedIn: [badisanaveen](https://linkedin.com/in/badisanaveen)
+| Category                | Skills                                                                                          |
+|-------------------------|-------------------------------------------------------------------------------------------------|
+| **Web Development**     | Angular, React, Spring Boot, Django and Golang.                                                 |
+| **DevOps**              | AWS, Docker, Jenkins, Kubernetes, Ansible, Terraform, Grafana and Prometheus.                   |
+| **Databases**           | MySQL, PostgreSQL, MongoDB and Redis.                                                           |
+| **Languages & Tools**   | C++, Java, Python, Javascript, Git,BitBucket, Jira, JFrogArtifactory, Confluence and DockerHub. |
 
 ---
 
-</div>
+<!-- Expertise Section -->
+## 💬 Expertise
+
+- 🌐 Designing and developing user friendly web applications using modern frameworks.
+- ☁️ Deploying and managing applications on cloud platforms like AWS and Kubernetes.
+- 🛢️ Database management and optimization for high-performance applications.
+
+---
+
+<!-- Contact Section -->
+## 📫 How to Reach Me
+
+- 📧 Email: naveenbadisa2708@gmail.com
+- 🔗 LinkedIn: [badisanaveen](https://linkedin.com/in/badisanaveen)
