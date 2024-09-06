@@ -20,7 +20,7 @@ Focused on building scalable web applications and automating deployment processe
   A Django application for supermarket billing, featuring PDF generation and AWS EC2 deployment.
 
 - **[DevOps Tools](https://github.com/naveen5655/angular_devops)**  
-  Developing CI/CD pipelines with Jenkins, Docker, and Kubernetes for seamless deployment.
+  Developing CI/CD pipelines with Jenkins, Docker and Kubernetes for seamless deployment.
 
 ---
 
@@ -56,7 +56,7 @@ Focused on building scalable web applications and automating deployment processe
 
 ### 🏆 Achievements
 
-- **4-Star** Competitive Programmer on CodeChef with 1000+ problems solved.
+- **4-Star** Competitive Programmer on CodeChef with 500+ problems solved.
 - Published an **IEEE Paper** on Jenkins automation.
 
 ---
