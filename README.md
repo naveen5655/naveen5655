@@ -9,9 +9,6 @@
 *Software Engineer Intern at Analog Devices*  
 Focused on building scalable web applications and automating deployment processes.
 
-🌱 **Currently Exploring**  
-Exploring deep into cloud-native architectures, Kubernetes, and advanced CI/CD practices.
-
 ---
 
 ### 🌟 Notable Projects
