@@ -60,7 +60,7 @@ Focused on building scalable web applications and automating deployment processe
 - Published an **IEEE Paper** on Jenkins automation.
 
 ---
-
+<!-- Completed 120+ JIRA tickets and authored project documentation on Confluence. -->
 ### 💼 Professional Experience
 
 **Software Engineer Intern**  
@@ -68,7 +68,6 @@ Focused on building scalable web applications and automating deployment processe
 *May 2023 - May 2024* | *Bengaluru, India*
 
 - Developed a web application using **Angular** and **Golang** to manage Jenkins controllers, reducing 90% of support tickets.
-- Completed 120+ JIRA tickets and authored project documentation on Confluence.
 - Optimized Docker image size by 97% using multi-stage builds, resulting in faster deployments and enhanced resource efficiency.
 - Created Jenkins shared libraries to streamline CI/CD pipelines.
 - Deployed applications on **Kubernetes** for secure global accessibility.
