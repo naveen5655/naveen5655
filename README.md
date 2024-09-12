@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Naveen! 👋</h1>
-  <p><em>Full Stack Developer & DevOps Enthusiast</em></p>
+  <p><em>Full Stack Developer & DevOps Engineer</em></p>
 </div>
 
 ---
