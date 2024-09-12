@@ -31,7 +31,7 @@ Focused on building scalable web applications and automating deployment processe
 An online shopping platform built using ReactJS and Spring Boot.
 - 🛒 Product categories, user-friendly shopping experience.
 - 💳 Secure payment gateway for transactions.
-- 🚀 Hosted on AWS Elastic Beanstalk and integrated with GoDaddy domain.
+- 🚀 Hosted on AWS Elastic Beanstalk and integrated with a GoDaddy domain name.
 
 ### [Super Market Bill](https://github.com/naveen5655/Super-Market)
 Automated billing system for supermarkets using Django and MySQL database.
