@@ -54,8 +54,6 @@ Automated billing system for supermarkets using Django and MySQL.
   </tr>
 </table>
 
- <br>
- </p>
 
 ---
 
