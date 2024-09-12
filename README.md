@@ -44,20 +44,6 @@ Automated billing system for supermarkets using Django and MySQL.
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveen5655&show_icons=true&theme=radical" alt="Naveen's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveen5655&theme=radical" alt="Naveen's GitHub Streak" width="48%"/>
-</div>
-
-### 🌟 Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen5655&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
-</div>
-
-
-<h3> <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="21px" height="36px">&nbsp; Productivity Statistics</h3>
-
 <table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naveen5655&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
