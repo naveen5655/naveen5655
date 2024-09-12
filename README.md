@@ -36,7 +36,7 @@ An online shopping platform built using ReactJS and Spring Boot.
 ### [Super Market Bill](https://github.com/naveen5655/Super-Market)
 Automated billing system for supermarkets using Django and MySQL database.
 - 🧾 Real-time product management with PDF bill generation.
-- ⚖️ Dropdown for managing product quantity units like kg, liters and items.
+- ⚖️ Dropdown for managing product quantity units like kilograms, liters and items.
 - 🌐 Scalable deployment on AWS EC2 with auto-scaling and load balancer.
 
 ---
@@ -58,18 +58,16 @@ Automated billing system for supermarkets using Django and MySQL database.
 
 ### 🏆 Achievements
 
-- **4-Star** Competitive Programmer on CodeChef with 500+ problems solved.
+- **4-Star** Competitive Programmer on CodeChef  and solved 500+ problems.
 - Published an **IEEE Paper** on Jenkins automation.
-
----
-<!-- Completed 120+ JIRA tickets and authored project documentation on Confluence. -->
+- 
 ### 💼 Professional Experience
 
 **Software Engineer Intern**  
 *Analog Devices*  
 *May 2023 - May 2024* | *Bengaluru, India*
 
-- Developed a web application using **Angular** and **Golang** to manage Jenkins controllers, reducing 90% of support tickets.
+- Developed a web application using **Angular** and **Golang** to manage jenkins controllers and significantly reduced 90% software support tickets.
 - Optimized Docker image size by 97% using multi-stage builds, resulting in faster deployments and enhanced resource efficiency.
 - Created Jenkins shared libraries to streamline CI/CD pipelines.
 - Deployed applications on **Kubernetes** for secure global accessibility.
