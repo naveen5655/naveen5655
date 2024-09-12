@@ -11,16 +11,19 @@ Focused on building scalable web applications and automating deployment processe
 
 ---
 
-### 🌟 Notable Projects
+## 🚀 Projects
 
-- **[SHOPMELLA Website](https://github.com/naveen5655/SHOPMELLA)**  
-  An e-commerce platform built with ReactJS and Spring Boot, deployed on AWS.
+### [SHOPMELLA](https://github.com/naveen5655/SHOPMELLA)
+An online shopping platform built using ReactJS and Spring Boot.
+- 🛒 Product categories, user-friendly shopping experience.
+- 💳 Secure payment gateway for test transactions.
+- 🚀 Hosted on AWS Elastic Beanstalk with GoDaddy domain integration.
 
-- **[Super Market Bill](https://github.com/naveen5655/Super-Market)**  
-  A Django application for supermarket billing, featuring PDF generation and AWS EC2 deployment.
-
-- **[DevOps Tools](https://github.com/naveen5655/angular_devops)**  
-  Developing CI/CD pipelines with Jenkins, Docker and Kubernetes for seamless deployment.
+### [Super Market Bill](https://github.com/naveen5655/Super-Market)
+Automated billing system for supermarkets using Django and MySQL.
+- 🧾 Real-time product management with PDF bill generation.
+- ⚖️ Dropdown for managing product quantity units (kg, liters, items).
+- 🌐 Scalable deployment on AWS EC2 with auto-scaling and load balancer.
 
 ---
 
