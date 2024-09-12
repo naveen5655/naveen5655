@@ -30,11 +30,11 @@ Focused on building scalable web applications and automating deployment processe
 ### [SHOPMELLA](https://github.com/naveen5655/SHOPMELLA)
 An online shopping platform built using ReactJS and Spring Boot.
 - 🛒 Product categories, user-friendly shopping experience.
-- 💳 Secure payment gateway for test transactions.
-- 🚀 Hosted on AWS Elastic Beanstalk with GoDaddy domain integration.
+- 💳 Secure payment gateway for transactions.
+- 🚀 Hosted on AWS Elastic Beanstalk and integrated with GoDaddy domain.
 
 ### [Super Market Bill](https://github.com/naveen5655/Super-Market)
-Automated billing system for supermarkets using Django and MySQL.
+Automated billing system for supermarkets using Django and MySQL database.
 - 🧾 Real-time product management with PDF bill generation.
 - ⚖️ Dropdown for managing product quantity units (kg, liters, items).
 - 🌐 Scalable deployment on AWS EC2 with auto-scaling and load balancer.
