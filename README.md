@@ -52,6 +52,22 @@ Focused on building scalable web applications and automating deployment processe
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen5655&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </div>
 
+
+<h3> <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="21px" height="36px">&nbsp; Productivity Statistics</h3>
+
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naveen5655&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+   <tr>
+<!--       <td><img src="https://activity-graph.herokuapp.com/graph?username=naveen5655&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td> -->
+  </td>
+  </tr>
+</table>
+
+ <br>
+ </p>
+
 ---
 
 ### 🏆 Achievements
