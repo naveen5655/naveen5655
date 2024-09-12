@@ -36,7 +36,7 @@ An online shopping platform built using ReactJS and Spring Boot.
 ### [Super Market Bill](https://github.com/naveen5655/Super-Market)
 Automated billing system for supermarkets using Django and MySQL database.
 - 🧾 Real-time product management with PDF bill generation.
-- ⚖️ Dropdown for managing product quantity units (kg, liters, items).
+- ⚖️ Dropdown for managing product quantity units like kg, liters and items.
 - 🌐 Scalable deployment on AWS EC2 with auto-scaling and load balancer.
 
 ---
