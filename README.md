@@ -67,7 +67,7 @@ Automated billing system for supermarkets using Django and MySQL database.
 *Analog Devices*  
 *May 2023 - May 2024* | *Bengaluru, India*
 
-- Developed a web application using **Angular** and **Golang** to manage jenkins controllers and significantly reduced 90% software support tickets.
+- Developed a web application using **Angular** and **Golang** to manage and monitor 100+ jenkins controllers.
 - Optimized Docker image size by 97% using multi-stage builds, resulting in faster deployments and enhanced resource efficiency.
 - Created Jenkins shared libraries to streamline CI/CD pipelines.
 - Deployed applications on **Kubernetes** for secure global accessibility.
