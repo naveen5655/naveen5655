@@ -5,8 +5,7 @@
 
 ---
 
-🔭 **Current Role**  
-*Software Engineer Intern at Analog Devices*  
+🔭 **Current Role - Software Engineer**  
 Focused on building scalable web applications and automating deployment processes.
 
 ---
@@ -60,7 +59,7 @@ Automated billing system for supermarkets using Django and MySQL database.
 
 - **4-Star** Competitive Programmer on CodeChef  and solved 500+ problems.
 - Published an **IEEE Paper** on Jenkins automation.
-- 
+
 ### 💼 Professional Experience
 
 **Software Engineer Intern**  
