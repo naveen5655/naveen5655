@@ -6,7 +6,7 @@
 ---
 
 🔭 **Current Role - Software Engineer**  
-Focused on building scalable web applications and automating deployment processes.
+Focused on building scalable web applications and deploy them.
 
 ---
 ### 🔧 Tech Stack
