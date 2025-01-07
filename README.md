@@ -5,7 +5,7 @@
 
 ---
 
-🔭 **Current Role - Software Engineer**  
+🔭 **Current Role - SDE-1 in zeta **  
 Focused on building scalable web applications and deploy them.
 
 ---
