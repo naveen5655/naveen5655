@@ -4,7 +4,7 @@
 
 ### SDE-1 (Frontend Developer) @ Zeta
 
-Building scalable, user-focused web applications with modern frontend technologies.
+Interested in building scalable web applications with modern frontend technologies.
 
 </div>
 
