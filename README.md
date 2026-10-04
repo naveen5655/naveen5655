@@ -24,7 +24,7 @@ Building scalable, user-focused web applications with modern frontend technologi
 
 ## 🔧 Tech Stack
 
-### Frontend
+### Web Development
 
 <div align="center">
 
@@ -33,22 +33,14 @@ Building scalable, user-focused web applications with modern frontend technologi
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-
-</div>
-
-### Backend & APIs
-
-<div align="center">
-
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
 <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" alt="REST APIs"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
 </div>
 
-### DevOps & Tools
+### DevOps Tools
 
 <div align="center">
 
@@ -72,9 +64,9 @@ Working on enterprise platforms for insurance benefits and payment operations.
 
 **Payer Support Center**
 
-* Developed reusable components for **member details, claim details, and payment transaction histories**
+* Developed reusable components for **member details, claim details and payment transaction histories**
 * Integrated **GraphQL queries** for member and payment-related workflows
-* Integrated REST APIs for actions such as **Resend Email, Void Payment, and Drop to Check**
+* Integrated REST APIs for actions such as **Resend Email, Void Payment and Drop to Check**
 * Implemented claim progress and status timelines using **Intersection Observer**
 * Added pagination using **offset and cursor-based approaches**
 * Improved application reliability by preventing duplicate API calls and refetching data after user actions
